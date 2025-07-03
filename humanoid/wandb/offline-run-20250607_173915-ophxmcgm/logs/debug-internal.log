@@ -1,0 +1,18 @@
+{"time":"2025-06-07T17:39:16.140000229+08:00","level":"INFO","msg":"stream: starting","core version":"0.20.1","symlink path":"/home/jbz/Packages/livelybot_pi_rl_baseline-release_v1.0.0/humanoid/wandb/offline-run-20250607_173915-ophxmcgm/logs/debug-core.log"}
+{"time":"2025-06-07T17:39:16.245155279+08:00","level":"WARN","msg":"GraphQL client is nil, skipping feature loading"}
+{"time":"2025-06-07T17:39:16.245325777+08:00","level":"INFO","msg":"stream: created new stream","id":"ophxmcgm"}
+{"time":"2025-06-07T17:39:16.245360374+08:00","level":"INFO","msg":"stream: started","id":"ophxmcgm"}
+{"time":"2025-06-07T17:39:16.245506896+08:00","level":"INFO","msg":"writer: Do: started","stream_id":"ophxmcgm"}
+{"time":"2025-06-07T17:39:16.245629647+08:00","level":"INFO","msg":"handler: started","stream_id":"ophxmcgm"}
+{"time":"2025-06-07T17:39:16.245752885+08:00","level":"INFO","msg":"sender: started","stream_id":"ophxmcgm"}
+{"time":"2025-06-07T17:39:16.254909302+08:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-06-07T17:39:23.272185342+08:00","level":"INFO","msg":"stream: closing","id":"ophxmcgm"}
+{"time":"2025-06-07T17:39:23.272227252+08:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-06-07T17:39:23.272280613+08:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-06-07T17:39:26.376565705+08:00","level":"WARN","msg":"tensorboard: no root directory","error":"timed out after 10s"}
+{"time":"2025-06-07T17:39:26.376708366+08:00","level":"INFO","msg":"tensorboard: tracking new log directory","rootDir":{},"logDir":"LocalOrCloudPath(LocalPath=\"/home/jbz/Packages/livelybot_pi_rl_baseline-release_v1.0.0/logs/Pai_ppo/Jun07_17-39-14_v1\")","namespace":""}
+{"time":"2025-06-07T17:39:26.377156831+08:00","level":"ERROR","msg":"tensorboard: failed to infer path where to save file","file":"/home/jbz/Packages/livelybot_pi_rl_baseline-release_v1.0.0/logs/Pai_ppo/Jun07_17-39-14_v1/events.out.tfevents.1749289156.jbz.11139.0","error":"\"/home/jbz/Packages/livelybot_pi_rl_baseline-release_v1.0.0/logs/Pai_ppo/Jun07_17-39-14_v1/events.out.tfevents.1749289156.jbz.11139.0\" does not start with \"/home/jbz/Packages/livelybot_pi_rl_baseline-release_v1.0.0/humanoid\""}
+{"time":"2025-06-07T17:39:26.380181304+08:00","level":"INFO","msg":"handler: closed","stream_id":"ophxmcgm"}
+{"time":"2025-06-07T17:39:26.380219227+08:00","level":"INFO","msg":"writer: Close: closed","stream_id":"ophxmcgm"}
+{"time":"2025-06-07T17:39:26.380260749+08:00","level":"INFO","msg":"sender: closed","stream_id":"ophxmcgm"}
+{"time":"2025-06-07T17:39:26.380297096+08:00","level":"INFO","msg":"stream: closed","id":"ophxmcgm"}

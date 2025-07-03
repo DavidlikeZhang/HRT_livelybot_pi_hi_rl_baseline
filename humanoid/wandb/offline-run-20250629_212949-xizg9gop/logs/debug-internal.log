@@ -1,0 +1,18 @@
+{"time":"2025-06-29T21:29:50.145629854+08:00","level":"INFO","msg":"stream: starting","core version":"0.20.1","symlink path":"/home/jbz/Packages/livelybot_pi_rl_baseline-release_v1.0.0/humanoid/wandb/offline-run-20250629_212949-xizg9gop/logs/debug-core.log"}
+{"time":"2025-06-29T21:29:50.253725848+08:00","level":"WARN","msg":"GraphQL client is nil, skipping feature loading"}
+{"time":"2025-06-29T21:29:50.254169542+08:00","level":"INFO","msg":"stream: created new stream","id":"xizg9gop"}
+{"time":"2025-06-29T21:29:50.254194683+08:00","level":"INFO","msg":"stream: started","id":"xizg9gop"}
+{"time":"2025-06-29T21:29:50.254340709+08:00","level":"INFO","msg":"writer: Do: started","stream_id":"xizg9gop"}
+{"time":"2025-06-29T21:29:50.254456304+08:00","level":"INFO","msg":"handler: started","stream_id":"xizg9gop"}
+{"time":"2025-06-29T21:29:50.254478125+08:00","level":"INFO","msg":"sender: started","stream_id":"xizg9gop"}
+{"time":"2025-06-29T21:29:50.263037773+08:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-06-29T21:30:00.406193499+08:00","level":"WARN","msg":"tensorboard: no root directory","error":"timed out after 10s"}
+{"time":"2025-06-29T21:30:00.406303469+08:00","level":"INFO","msg":"tensorboard: tracking new log directory","rootDir":{},"logDir":"LocalOrCloudPath(LocalPath=\"/home/jbz/Packages/livelybot_pi_rl_baseline-release_v1.0.0/logs/Hi_ppo/Jun29_21-29-37_v2\")","namespace":""}
+{"time":"2025-06-29T21:30:00.406533125+08:00","level":"ERROR","msg":"tensorboard: failed to infer path where to save file","file":"/home/jbz/Packages/livelybot_pi_rl_baseline-release_v1.0.0/logs/Hi_ppo/Jun29_21-29-37_v2/events.out.tfevents.1751203790.jbz.9247.0","error":"\"/home/jbz/Packages/livelybot_pi_rl_baseline-release_v1.0.0/logs/Hi_ppo/Jun29_21-29-37_v2/events.out.tfevents.1751203790.jbz.9247.0\" does not start with \"/home/jbz/Packages/livelybot_pi_rl_baseline-release_v1.0.0/humanoid\""}
+{"time":"2025-06-29T21:30:16.412890581+08:00","level":"INFO","msg":"stream: closing","id":"xizg9gop"}
+{"time":"2025-06-29T21:30:16.41293226+08:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-06-29T21:30:16.413004245+08:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-06-29T21:30:16.419540714+08:00","level":"INFO","msg":"handler: closed","stream_id":"xizg9gop"}
+{"time":"2025-06-29T21:30:16.420195463+08:00","level":"INFO","msg":"sender: closed","stream_id":"xizg9gop"}
+{"time":"2025-06-29T21:30:16.420196979+08:00","level":"INFO","msg":"writer: Close: closed","stream_id":"xizg9gop"}
+{"time":"2025-06-29T21:30:16.420298828+08:00","level":"INFO","msg":"stream: closed","id":"xizg9gop"}
