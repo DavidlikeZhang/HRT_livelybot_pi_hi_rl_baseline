@@ -1,0 +1,46 @@
+{
+  "os": "Linux-5.15.0-139-generic-x86_64-with-glibc2.17",
+  "python": "CPython 3.8.20",
+  "startedAt": "2025-06-29T14:35:28.107107Z",
+  "args": [
+    "--task=hi_ppo",
+    "--run_name",
+    "v2",
+    "--num_envs",
+    "1",
+    "--headless"
+  ],
+  "program": "scripts/train.py",
+  "codePath": "scripts/train.py",
+  "root": "/home/jbz/Packages/livelybot_pi_rl_baseline-release_v1.0.0/humanoid",
+  "host": "jbz",
+  "executable": "/home/jbz/anaconda3/envs/pi_env/bin/python3.8",
+  "codePathLocal": "scripts/train.py",
+  "cpu_count": 14,
+  "cpu_count_logical": 20,
+  "gpu": "NVIDIA GeForce RTX 4060 Laptop GPU",
+  "gpu_count": 1,
+  "disk": {
+    "/": {
+      "total": "50072293376",
+      "used": "42578624512"
+    }
+  },
+  "memory": {
+    "total": "16371154944"
+  },
+  "cpu": {
+    "count": 14,
+    "countLogical": 20
+  },
+  "gpu_nvidia": [
+    {
+      "name": "NVIDIA GeForce RTX 4060 Laptop GPU",
+      "memoryTotal": "8585740288",
+      "cudaCores": 3072,
+      "architecture": "Ada",
+      "uuid": "GPU-5ad1c59d-f707-25d4-9126-564375c4d1d2"
+    }
+  ],
+  "cudaVersion": "12.2"
+}
