@@ -263,7 +263,7 @@ class HiCfg(LeggedRobotCfg):
         max_dist = 0.2
         # put some settings here for LLM parameter tuning
         target_joint_pos_scale = 0.08  # rad
-        target_feet_height = 0.02  # m 是否要更高
+        target_feet_height = 0.02  # m 是否要更高？
         cycle_time = 0.4  # sec
         # if true negative total rewards are clipped at zero (avoids early termination problems)
         only_positive_rewards = True
@@ -275,7 +275,7 @@ class HiCfg(LeggedRobotCfg):
         class scales:
             # reference motion tracking
             joint_pos = 1.6  # 1.6
-            feet_clearance = 5.0
+            feet_clearance = 5.0 # 脚步离地高度的权重
             feet_contact_number = 1.2
             # gait
             feet_air_time = 1.0
